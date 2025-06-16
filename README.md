@@ -1,4 +1,6 @@
-## Hi there 👋
+## Howdy. I'm Den.
+
+My name is Den McHenry. I make websites and draw cartoons for my kids and my co-workers. I've always been kind of a hermit and am currently trying to climb out of this shell.
 
 <!--
 **denmch/denmch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
